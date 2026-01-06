@@ -1,26 +1,42 @@
-👋 Hi, I’m @Akhrameev
+# 👋 Hi, I’m @Akhrameev
 
- I’m an **experienced iOS Developer**: started from iOS 5 - and I'm still in!
+**Senior Systems Architect & iOS Engineer.**  
+Building mobile engines since iOS 5. I specialize in the hard stuff: Multimedia pipelines, C++ integration, AI/ML on-device, and high-concurrency systems.
 
-👔 Worked for mobile apps for well-known IT-companies: [Picsart](https://apps.apple.com/us/app/picsart-photo-editor-video/id587366035), [VK](https://apps.apple.com/ru/app/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%B8-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/id564177498), [Yandex](https://apps.apple.com/us/app/yandex-navi-navigation-maps/id474500851), [Movavi](https://apps.apple.com/us/app/movavi-clips-edit-video-editor/id1226251139), [OneTwoTrip](https://apps.apple.com/us/app/onetwotrip-hotels-and-flights/id811057180) - and more.
+---
 
-High skills in multimedia apps development:
-* I've developed first version of [Movavi Clips](https://apps.apple.com/us/app/movavi-clips-edit-video-editor/id1226251139) video editor from scratch in 3 months. And then build a team to continue development faster.
-* In [EFEKT](https://apps.apple.com/us/app/efekt-video-editor-maker/id1367644508) (part of Picsart) I worked on Metal video effects and async frame processing.
-* In [Picsart](https://apps.apple.com/us/app/picsart-photo-editor-video/id587366035) I've added audio functionality to video editor (also [Mubert](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) integration: generative audio using samples).
-* In [Picsart](https://apps.apple.com/us/app/picsart-photo-editor-video/id587366035) my team implemented server-side Text-2-Image and AI Enhancement tools.
-* 📹 Contributor in [VLC iOS app](https://apps.apple.com/us/app/vlc-media-player/id650377962).
+## 🛠 Tech Stack
 
-Attention to details:
-* accurate async code (in any language: Objective-C, Swift, C++ in [Yandex.Navigator](https://apps.apple.com/us/app/yandex-navi-navigation-maps/id474500851));
-* pixel-perfect UI;
-* ability to investigate complicated issues even without access to code (in Sberbank Business Online issue was in private framework, in Movavi I've fixed AVPlayer behavior on iPad with iOS 9.3, in EFEKT we got black images on some Metal effects after Xcode update - and ready for more)!
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-Graphics-blue)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
 
-💬 You can reach me on Telegram by [@akhrameev](https://t.me/akhrameev)
+## 🚀 High-Impact Engineering
+
+I don't just build UI; I architect systems that scale to billions.
+
+* **[Qalti](https://qalti.com):** Architected a **gRPC video streaming pipeline** and solved main-thread deadlocks for an AI-testing platform.
+* **[Picsart](https://picsart.com):** Led the mobile GenAI launch (**1 Billion+ uses**). Shipped in 3 weeks by pioneering a Combine-based architecture.
+* **[Yandex.Navi](https://apps.apple.com/us/app/yandex-navi-navigation-maps/id474500851):** Engineered a **C++ ad-placement engine** that drove 20% revenue growth via optimized native rendering.
+* **[Rhino](https://rhino.com):** Built a stateless, high-reliability foreground service (Flutter) replacing manual ops for a fleet of armored cars.
+* **[Movavi](https://apps.apple.com/us/app/movavi-clips-edit-video-editor/id1226251139):** Built the iOS video editor **from scratch** in 3 months using AVFoundation.
+
+## 🔬 Deep Dive & R&D
+
+* **Multimedia:** Integrated **Mubert AI** (generative audio) and contributed to the open-source **VLC** player for iOS.
+* **Systems Debugging:**
+  * Reverse-engineered private frameworks to fix **Sberbank** security crashes.
+  * Debugged **Metal shader memory layouts** via hex editors to fix rendering regressions.
+  * Fixed low-level **AVPlayer** bugs on specific iOS versions by manipulating C++ internals.
+* **Optimization:** Consolidated 400+ Figma UI variations into a single programmable system at Picsart.
+
+---
+
+## 💬 Contact
+
+* **Telegram:** [@akhrameev](https://t.me/akhrameev)
+* **LinkedIn:** [linkedin.com/in/akhrameev](https://linkedin.com/in/akhrameev)
 
 (っ◕‿◕)っ I run 🏃‍♂️ , ǝʅɔʎɔᴉun 🤡, play ukulele 🎸 and have 3 great kids: 👦👧👶
-
-<!---
-Akhrameev/Akhrameev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
